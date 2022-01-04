@@ -8,14 +8,16 @@
 
 
 ## Usage
-`apt-get update` <br>
-`apt-get upgrade` <br>
-`pkg install git` <br>
-`pkg install python3` <br>
-`git clone https://github.com/thenurhabib/cluric` <br>
-`pip install requests` <br>
-`cd cluric` <br>
-`.python3 cluric.py` 
+ ```yaml
+apt-get update
+apt-get upgrade
+pkg install git
+pkg install python3
+git clone https://github.com/thenurhabib/cluric
+pip install requests
+cd cluric
+python3 cluric.py
+```
 
 
 
